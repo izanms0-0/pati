@@ -1,0 +1,24 @@
+Holu Buenos dias, tardes o noches espero que te guste el juego y lo disfrutes esta pensado el juego para poder pasarselo 
+en menos de 20 minutos y eso esper que te guste te amu mucho y eso hasta otra cuidate :3♥♥♥♥
+
+Pasos: 
+-Abrir el archivo que se llama (Launcher.pyc) y ya esta.
+
+Controles:
+-Para jugar y elegir opciones es muy facil tu eliges un numero o letra de las ociones disponibles y la escribes y despues le das al "Enter o Intro"
+y ya estaria si tienes alguna pregunta avisame y te lo arreglo todo chau u3u
+
+Jugabilidad:
+-IMPORTANTE ESTE JUEGO TIENE UN FUNCIONAMIENDO DE MULTIHISTORIA ES DECIR QUE SEGUN LO QUE ELIGAS PUEDE PASAR UNA COSA O OTRA.
+
+-El juego esta basado en el tiempo es decir que tendras 7 dias (una semana) empezando por el lunes madrugada y segun lo que 
+eligas al final (domingo 23:59) tendras un final u otro y lo bueno del juego es que hay diferentes finales asi que seguramente 
+podras jugarlo un par de vezes sin aburrirte.
+
+-En este juego NO HAY para guardar el proceso ya echo por eso lo e ech lo mas alargado y corto que e podido 
+
+-en el caso de que te tengas que ir y no puedas terminar el juego solo cierra la ventana
+
+-Hay en total 3 historias "diferentes" Roger, Lilit y otro personaje que tu podrias elegir el nombre
+
+-Cada accion que realizas te consume un tiempo 1, 2 o x horas depende de la accion quien sabe si esto repercutira en algun momento
