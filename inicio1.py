@@ -16,7 +16,7 @@ def menu():
     print("\n")
 while True:
     menu()
-
+    
     input1 = input("elige el nombre del jugador para continuar :3 >>")
     
     if input1=="1":{
