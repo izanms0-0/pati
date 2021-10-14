@@ -42,8 +42,7 @@ def menu():
         if input1==("1"):
             os.system('cls')
             os.system('python esperar.py')
-    
-    
+			
         elif input1==("2"):
             os.system('cls')
             time.sleep(1.3)
@@ -68,6 +67,17 @@ print("X: Pocos segundos despues viene un mesero y te pregunta...")
 time.sleep(3)
 os.system('cls')
 def  menu1():
-    input("Quieres pedir algo?")
+    input("X: Quieres pedir algo?")
     print("")
-    print("")
+    print("1-) si")
+	print("")
+	print("2-) no")
+	print("")
+	print(">>")
+	
+while True:
+	menu()
+	if input == ("1"):{
+		menu2()
+		input("X: que quieres tomar")
+	}
