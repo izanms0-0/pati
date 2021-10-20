@@ -82,8 +82,6 @@ while True:
             
 ##############################################################################################################################################
 
-    
-##################################################################################################################
 print("X: caminas hasta un bar a la vuelta de la esquina...")
 time.sleep(2)
 os.system('cls')
@@ -96,4 +94,25 @@ os.system('cls')
 
 while True:
     menu1()
-    
+break
+
+os.system("cls")
+time.sleep(0.5)
+print("X: El mesero se va y al rato viene con un vaso de agua")
+time.sleep(3)
+os.system("cls")
+while True:
+    input3 = input("Quieres beberte el agua?\n1-) y\n2-) n\n>>")
+	if input3 == ("y"):
+		os.system("cls")
+		time.sleep(0.7)
+		os.system("python agua/si.py")
+		
+	elif input3 == ("n"):
+		os.system("cls")
+		time.sleep(0.7)
+		os.system("python agua/no.py")
+		
+	else:
+	   input(Fore.LIGHTMAGENTA + "Esa opcion no esta en la lista.../nPulsa enter para continuar" + Style.RESET_ALL)
+	
