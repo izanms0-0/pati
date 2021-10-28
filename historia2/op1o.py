@@ -16,8 +16,8 @@ def menu1():
     
     if input2 == ("1"):
         time.sleep(0.5)
-        os.system('python agua.py')
-    
+	os.system("python agua.py")
+	
     elif input2 == ("2"):
         time.sleep(0.5)
         os.system('python zumo.py')
@@ -28,6 +28,7 @@ def menu1():
         
     elif input2 == ("4"):
         time.sleep(0.5)
+	os.system('python nada.py')
         
     
     else:
@@ -94,23 +95,4 @@ os.system('cls')
 
 while True:
     menu1()
-    break
-
-os.system("cls")
-time.sleep(0.5)
-print("X: El mesero se va y al rato viene con un vaso de agua")
-time.sleep(3)
-os.system("cls")
-while True:
-        input2 = input("quieres beberte el agua ?\n1-) si\n2-) no\n>>")
-        
-        if input2 == ("1") or ("si"):
-            time.sleep(1)
-            os.system("python agua/si.py")
-            
-        elif input2 == ("2") or ("no"):
-            time.sleep(1)
-            os.system("python agua/no.py")
-            
-        else: 
-            input(Fore.LIGHTMAGENTA_EX + "Esa opcion no esta disponible...\nPulsa enter para continuar" + Style.RESET_ALL)     
+    break 
