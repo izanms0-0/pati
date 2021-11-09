@@ -1,12 +1,12 @@
 import os
 import time
 from colorama import *
+import random
 
 def menu():
     """
     funcion que muestra de nuevo el menu
     """
-    
     os.system('cls')
     print("personajes a elegir :")
     print("\n-1) Roger")
@@ -14,6 +14,7 @@ def menu():
     print("\n-3) elige tu el nombre")
     print("\n-4) Salir")
     print("\n")
+
 while True:
     menu()
     
