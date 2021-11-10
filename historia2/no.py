@@ -2,6 +2,8 @@ import os
 import time
 from colorama import *
 
+hola 123
+
 os.system('cls')
 print("X: apagas la alarma y cierras los ojos. Minutos seguidos te duermes")
 time.sleep(3)
